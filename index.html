@@ -290,7 +290,6 @@
             message += `Отправитель: ${ this.name.value }\n`;
             message += `Телефон: ${ this.phone.value }\n`;
             message += `Вопрос: ${ this.question.value }\n`;
-            alert(message);
 
             axios.post(URI_API, {
                 chat_id: CHAT_ID,
