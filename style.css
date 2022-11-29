@@ -114,9 +114,9 @@ section {
     transition: all 0.7s ease;
 }
 .block__two__card:hover {
-    -webkit-transform: scale(1.1);
-    -ms-transform: scale(1.1);
-    transform: scale(1.1);
+    -webkit-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    transform: scale(1.05);
 }
 .block__two__card__wrapper {
     display: flex;
@@ -161,9 +161,9 @@ section {
     transition: all 0.7s ease;
 }
 .block__tree_card:hover {
-    -webkit-transform: scale(1.1);
-    -ms-transform: scale(1.1);
-    transform: scale(1.1);
+    -webkit-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    transform: scale(1.05);
 }
 .img__tree { max-width: 120px; }
 .block__tree_card__head {
@@ -207,9 +207,9 @@ section {
     transition: all 0.7s ease;
 }
 .block__four__card:hover {
-    -webkit-transform: scale(1.1);
-    -ms-transform: scale(1.1);
-    transform: scale(1.1);
+    -webkit-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    transform: scale(1.05);
 }
 .img__four {
     margin-top: 15px;
